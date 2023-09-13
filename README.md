@@ -7,12 +7,8 @@ This repository contains my solutions to the programming problems from the book 
 The book "Fifty-two programming problems" presents a collection of interesting programming challenges to help improve your coding skills. I've solved each problem using C/C++.
 
 ## Problems
-
-1. [Problem 1](problem1.cpp) - Description of problem 1.
-   - [Solution](problem1.cpp)
-   
-2. [Problem 2](problem2.cpp) - Description of problem 2.
-   - [Solution](problem2.cpp)
+1. ***Even Odd***
+2. ***Even Odd - 1***
 
    ... (continue for all 52 problems)
 
