@@ -45,6 +45,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Thank you to Tamim Shariar Shubin for providing these interesting programming challenges in the book.
-You can check out my profile [here](https://dimikoj.com/profile/mz63?rafiqul-jakir).
+Thank you to Tamim Shariar Shubin for providing these interesting programming challenges in the book.</br>
+You can check out my profile [here](https://dimikoj.com/profile/mz63?rafiqul-jakir).</br>
 ***Happy coding!***
