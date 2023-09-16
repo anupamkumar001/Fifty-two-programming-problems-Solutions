@@ -1,4 +1,5 @@
 # Fifty-two Programming Problems Solutions
+![Book logo](computer-programming-by-tamim-shariyar-subeen.png)
 
 This repository contains my solutions to the programming problems from the book "Fifty-two programming problems" by Tamim Shariar Shubin.
 
