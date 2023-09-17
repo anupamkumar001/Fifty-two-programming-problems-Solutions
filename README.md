@@ -1,4 +1,4 @@
-# Fifty-two Programming Problems Solutions
+# Fifty-two Programming Problem Solutions
 ![Book logo](computer-programming-by-tamim-shariyar-subeen.png)
 
 This repository contains my solutions to the programming problems from the book "Fifty-two programming problems" by Tamim Shariar Shubin.
@@ -8,7 +8,7 @@ This repository contains my solutions to the programming problems from the book 
 The book "Fifty-two programming problems" presents a collection of interesting programming challenges to help improve your coding skills. I've solved each problem using C/C++.
 
 ## Problems
-1. ***জোড়-বিজোড় ১.**
+1. ***জোড়-বিজোড় ১.***
 2. ***জোড়-বিজোড় ২.***
 3. ***অধোগামী সংখ্যা***
 4. ***ভাজক***
@@ -21,6 +21,8 @@ The book "Fifty-two programming problems" presents a collection of interesting p
 11. ***গৌণিক বা ফ্যাক্টরিয়াল***
 12. ***ফ্যাক্টরিয়াল - ১০০***
 13. ***টমি মিয়ার প্রোবাবিলিটি***
+14. ***অক্ষরের ঘনঘটা***
+15. ***অক্ষর গণনা***
 
    ... (continue for all 52 problems)
 
@@ -46,5 +48,6 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 Thank you to Tamim Shariar Shubin for providing these interesting programming challenges in the book.</br>
+</br>
 You can check out my profile [here](https://dimikoj.com/profile/mz63?rafiqul-jakir).</br>
 ***Happy coding!***
