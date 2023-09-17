@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    string input;
+    char input[1000];
     int T,i;
 
     cin >> T;
@@ -11,7 +11,7 @@ int main()
     {
         int counter[26] = {0};
         cin >> input;
-        for(int i = 0 ; i <= input.length(); i++)
+        for(int i = 0 ; i <= strlen(input); i++)
         {
             if(input[i] >= 'a' && input[i] <= 'z')
             {
